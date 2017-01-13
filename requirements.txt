@@ -1,0 +1,8 @@
+click
+requests
+MySQLdb
+ngender
+BeautifulSoup
+xlwt
+xlrd
+xlutils
